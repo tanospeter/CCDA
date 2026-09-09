@@ -15,3 +15,9 @@ CRAN publication is currently in progress.
 * **`plotccda.cluster`**: Plot of the basic grouping
 * **`plotccda.q95`**: CCDA density drawer
 * **`plotccda.results`**: Plot of the results of `ccda.main`
+
+### Usage
+
+* Download the `ccda.tar.gz` file
+* Install the package in the R environment
+* Use the package
